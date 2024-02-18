@@ -20,15 +20,21 @@ li a {
     padding: 15px 0;
     text-decoration: none;
 }
-
-.prod{
-    padding-left: 1085px;
+.con{
+    padding-left: 830px;
     position: fixed;
     top: 0;
-
+}
+.ins{
+    padding-left: 895px;
 }
 .our{
-    padding-left: 1005px;
+    padding-left: 5px;
+
+}
+.prod{
+    padding-left: 5px;
+
 
 }
 .fa-solid{

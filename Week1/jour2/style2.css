@@ -7,6 +7,8 @@
     position: fixed;
     left: 0;
     top: 50px;
+    flex-wrap: wrap;
+    justify-content: space-around;
 }
 div.infos{
     position: fixed;
@@ -180,3 +182,29 @@ span{
     color: #00ff00;
     font-size: 14px;
 }
+
+/* Media queries for different breakpoints */
+
+@media all and (max-width: 480px) {
+    .article1,.article2,.article3,.article4  {
+        flex: 9 997px;
+    }
+}
+@media all and (max-width: 768px) {
+    .article1,.article2,.article3,.article4  {
+        flex: 1 0 097px;
+    }
+}
+@media all  and (max-width: 1024px) {
+    .article1,.article2,.article3,.article4  {
+        flex: 1 0 197px;
+    }
+}
+@media all and (max-width: 1280px) {
+    .article1,.article2,.article3,.article4  {
+        flex: 1 0 297px;
+    }
+}
+
+
+
