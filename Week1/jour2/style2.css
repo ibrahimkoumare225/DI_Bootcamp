@@ -4,8 +4,11 @@
     height: 520px;
     width: 100%;
     display: inline-flex;
+    position: fixed;
+    left: 0;
+    top: 50px;
 }
-ul{
+div.infos{
     position: fixed;
     list-style-type: none;
     margin: 0;
@@ -13,7 +16,7 @@ ul{
 
 
 }
-li{
+p.red2,p.red,p.green{
     width: 40px; /* Largeur du cercle */
     height: 40px; /* Hauteur du cercle */
     border-radius: 50%;
