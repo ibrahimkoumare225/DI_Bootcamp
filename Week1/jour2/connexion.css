@@ -1,0 +1,128 @@
+.principal2{
+    border: 1px solid white;
+    height: 450px;
+    width: 60%;
+    display: inline-flex;
+    position: fixed;
+    left: 20%;
+    top: 65px;
+
+}
+.connex{
+    border: 1px solid white;
+    height: 450px;
+    width: 50%;
+    background-color:ghostwhite;
+}
+
+h1{
+    text-align: center;
+}
+.elem{
+    display: block;
+    margin: 20px auto;
+    width: 300px;
+    height: 25px;
+    font-size: 16px;
+    border: 0px;
+    background-color: lightgrey;
+}
+.btncon{
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    margin: 20px auto;
+    width: 300px;
+    height: 25px;
+    font-size: 16px;
+    border: 0px;
+    background-color:purple;
+}
+.elem2{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 30px;
+    margin-left:-15px ;
+}
+.forg{
+    text-decoration: none;
+    color: #333;
+}
+.texte-avec-trait {
+    position: relative;
+    text-align: center;
+}
+
+.texte-avec-trait::before,
+.texte-avec-trait::after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    width: 20%; /* Ajustez la largeur selon vos besoins */
+    height: 1px; /* Ajustez l'épaisseur du trait selon vos besoins */
+    background-color: black; /* Couleur du trait */
+}
+
+.texte-avec-trait::before {
+    left: 45px;
+}
+
+.texte-avec-trait::after {
+    right: 45px;
+}
+.icon{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fa-brands{
+    font-size: 25px; /* Taille de la police pour agrandir l'icône */
+    margin: 5px 5px;
+}
+.pied{
+
+    text-align: center;
+    margin-top: 75px;
+}
+/*********************************************/
+.inscrip{
+    border: 1px solid rgba(42, 23, 56, 0.95);
+    height: 450px;
+    width: 50%;
+    background: linear-gradient(to right, #4B0082, purple);
+
+}
+.imageIns{
+    font-size: 100px;
+    text-align: center;
+    margin-top: 80px;
+}
+.bloc{
+    text-align: center;
+    margin-top: -10px;
+
+}
+.pInsc1{
+    font-size: 40px;
+    color: white;
+    font-weight: bold;
+}
+.pInsc2{
+    color: white;
+    margin-bottom: 30px;
+}
+.btnIns{
+    height: 35px;
+    width: 130px;
+    margin-top: 10px;
+    background-color: purple;
+    border-radius: 20px;
+    border: 1.5px solid white;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+}
