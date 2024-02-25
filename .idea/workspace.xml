@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67bcaf90-433d-4daf-ae44-828d32b1d13e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Week1/jour3/.idea/jour3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week1/jour3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week1/jour3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week1/jour3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week1/jour3/exerciceCV.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week1/jour3/images/WhatsApp Image 2024-02-21 at 11.25.09.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week1/jour3/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week1/jour2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Week1/jour2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week1/jour2/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Week1/jour2/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week1/jour2/style2.css" beforeDir="false" afterPath="$PROJECT_DIR$/Week1/jour2/style2.css" afterDir="false" />
-    </list>
+    <list default="true" id="67bcaf90-433d-4daf-ae44-828d32b1d13e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,8 +16,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Week1/jour3/exerciceCV.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="21" column="58" lean-forward="true" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
+            <state relative-caret-position="357">
+              <caret line="21" column="58" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -37,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Week1/jour3/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+            <state relative-caret-position="384">
+              <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -70,12 +58,13 @@
         <option value="$PROJECT_DIR$/Week1/jour2/style.css" />
         <option value="$PROJECT_DIR$/Week1/jour3/exerciceCV.html" />
         <option value="$PROJECT_DIR$/Week1/jour3/style.css" />
+        <option value="$PROJECT_DIR$/testBranche" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-12" />
-    <option name="y" value="-12" />
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
     <option name="width" value="1890" />
     <option name="height" value="948" />
   </component>
@@ -84,7 +73,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -101,12 +89,19 @@
               <item name="DI_Bootcamp" type="b2602c69:ProjectViewProjectNode" />
               <item name="DI_Bootcamp" type="462c0819:PsiDirectoryNode" />
               <item name="Week1" type="462c0819:PsiDirectoryNode" />
+              <item name="jour2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DI_Bootcamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DI_Bootcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Week1" type="462c0819:PsiDirectoryNode" />
               <item name="jour3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -186,13 +181,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88304000" />
+    <option name="totallyTimeSpent" value="88345000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="687" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26639676" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27125505" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -314,15 +309,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Week1/jour3/exerciceCV.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="21" column="58" lean-forward="true" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
+        <state relative-caret-position="357">
+          <caret line="21" column="58" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Week1/jour3/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        <state relative-caret-position="384">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
         </state>
       </provider>
     </entry>
