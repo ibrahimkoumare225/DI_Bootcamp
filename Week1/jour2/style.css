@@ -1,44 +1,28 @@
-
 ul {
-    position: fixed;
-    top: 0;
-    width: 100%;
     list-style-type: none;
     margin: 0;
     padding: 0;
+    overflow: hidden;
     background-color: #333;
-
 }
 
 li {
-    float: left;
+    float: right;
 }
 
 li a {
-    display: block;
+    display: flex;
     color: white;
-    padding: 15px 0;
+    padding: 14px 16px;
     text-decoration: none;
 }
-.con{
-    padding-left: 830px;
-    position: fixed;
-    top: 0;
-}
-.ins{
-    padding-left: 895px;
-}
-.our{
-    padding-left: 5px;
-
-}
-.prod{
-    padding-left: 5px;
 
 
-}
 .fa-solid{
-    padding-left: 20px;
+    font-size: 25px;
+    color: white;
+    display: flex;
+    align-content: center;
 
 }
 /*pied de page */
@@ -51,4 +35,39 @@ li a {
     color: white;
     text-align: center;
 }
+/* Media queries for different breakpoints navbar*/
+@media all and (min-width: 1024px) and (max-width: 1280px) {
+    .footer,ul,li a {
+        background-color: #333;
+        color: white;
+    }
+
+}
+
+@media all and (min-width: 768px) and (max-width: 1024px) {
+    .footer,ul,li a{
+        background-color: firebrick;
+        color: white;
+
+    }
+}
+
+@media all and (min-width: 480px) and (max-width: 768px) {
+    .footer,ul,li a {
+        background-color: lime;
+        color: black;
+
+    }
+}
+
+@media all and (max-width: 480px) {
+    .footer,ul,li a {
+        background-color: yellow;
+        color: black;
+    }
+}
+
+
+
+
 

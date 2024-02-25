@@ -1,0 +1,79 @@
+.principal{
+    padding: 0;
+    margin: 0;
+    width: 80%;
+    border: 3px solid white;
+    display: grid;
+    grid-template-rows: 2fr 8fr;
+    grid-row-gap: 10px;
+    gap: 10px;
+}
+.navbar{
+    background-color: lightgray;
+    display: flex;
+    gap: 45%;
+    justify-content: space-around;
+
+
+
+}
+/****************************les éléments de la nav *****************************/
+.nav{
+    list-style: none;
+    margin: 20px;
+
+}
+span{
+    font-weight: bold;
+}
+.corps1,.corps2{
+    display: flex;
+
+
+}
+.fa-brands{
+    color: black;
+}
+.image{
+   width: 130px;
+    object-fit: contain;
+}
+.body{
+    background-color: lightgray;
+}
+.contact{
+    font-size: 15px;
+}
+
+.profile{
+
+    text-align: justify;
+    font-size: 15px;
+    font-family: "Times New Roman";
+}
+.education{
+    text-align: justify;
+    font-size: 12px;
+    font-family: "Times New Roman";
+}
+.workperience{
+    text-align: justify;
+    font-size: 15px;
+    font-family: "Times New Roman";
+
+}
+.work,.prof,.educ{
+    font-weight: bold;
+    font-size: 18px;
+    font-family: "Times New Roman";
+}
+.profileDesc{
+    font-size: 20px;
+    text-align: justify;
+}
+ul,li i{
+    font-size: 12px;
+    list-style: none;
+    margin: 4px;
+    padding: 4px;
+}
