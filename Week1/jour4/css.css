@@ -2,6 +2,7 @@
     position: fixed;
     top: 50px;
     background-color: lightgrey;
+
 }
 .jumbotron{
    margin: 10px 60px;
@@ -13,6 +14,7 @@
     position: fixed;
     top: 280px;
     margin: 10px 60px;
+
 }
 .bt{
     margin: 10px 0;

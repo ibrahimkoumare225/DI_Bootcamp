@@ -1,0 +1,30 @@
+.navbar {
+color: white;
+}
+.carousel-item {
+    background-image: url('https://mdbcdn.b-cdn.net/img/Photos/Slides/img%20(15).webp');
+    background-size: cover;
+    background-position: center;
+    height: 500px; /* Hauteur du carrousel */
+    position: fixed;
+    top: -50px;
+}
+.cont{
+    text-align: center;
+    margin-bottom: -500px;
+}
+.button,.text-center{
+    margin: 50px 0;
+}
+.text-center{
+    font-size: 40px;
+
+}
+.men{
+    display: flex;
+    justify-content: space-around;
+    font-size: 10px;
+}
+h3{
+    color: dodgerblue;
+}
