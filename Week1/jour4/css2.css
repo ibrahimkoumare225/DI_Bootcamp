@@ -5,9 +5,8 @@ color: white;
     background-image: url('https://mdbcdn.b-cdn.net/img/Photos/Slides/img%20(15).webp');
     background-size: cover;
     background-position: center;
-    height: 500px; /* Hauteur du carrousel */
     position: fixed;
-    top: -50px;
+    top: -150px;
 }
 .cont{
     text-align: center;

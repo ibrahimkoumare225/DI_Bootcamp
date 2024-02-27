@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67bcaf90-433d-4daf-ae44-828d32b1d13e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Week1/jour4/css2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week1/jour4/exercice2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week1/jour4/images/OIP.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week1/jour4/images/student-849825_1280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week1/jour4/css3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week1/jour4/exercice3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week1/jour4/css.css" beforeDir="false" afterPath="$PROJECT_DIR$/Week1/jour4/css.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week1/jour4/css2.css" beforeDir="false" afterPath="$PROJECT_DIR$/Week1/jour4/css2.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,19 +19,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week1/jour4/css2.css">
+        <entry file="file://$PROJECT_DIR$/Week1/jour4/css3.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+            <state relative-caret-position="272">
+              <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Week1/jour4/exercice2.html">
+        <entry file="file://$PROJECT_DIR$/Week1/jour4/exercice3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="43" column="29" lean-forward="true" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
+            <state relative-caret-position="425">
+              <caret line="109" column="16" selection-start-line="109" selection-start-column="16" selection-end-line="109" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -68,8 +66,10 @@
         <option value="$PROJECT_DIR$/testBranche" />
         <option value="$PROJECT_DIR$/Week1/jour4/exercice1.html" />
         <option value="$PROJECT_DIR$/Week1/jour4/css.css" />
-        <option value="$PROJECT_DIR$/Week1/jour4/css2.css" />
         <option value="$PROJECT_DIR$/Week1/jour4/exercice2.html" />
+        <option value="$PROJECT_DIR$/Week1/jour4/css2.css" />
+        <option value="$PROJECT_DIR$/Week1/jour4/css3.css" />
+        <option value="$PROJECT_DIR$/Week1/jour4/exercice3.html" />
       </list>
     </option>
   </component>
@@ -105,20 +105,7 @@
               <item name="DI_Bootcamp" type="b2602c69:ProjectViewProjectNode" />
               <item name="DI_Bootcamp" type="462c0819:PsiDirectoryNode" />
               <item name="Week1" type="462c0819:PsiDirectoryNode" />
-              <item name="jour2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DI_Bootcamp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DI_Bootcamp" type="462c0819:PsiDirectoryNode" />
-              <item name="Week1" type="462c0819:PsiDirectoryNode" />
               <item name="jour4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DI_Bootcamp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DI_Bootcamp" type="462c0819:PsiDirectoryNode" />
-              <item name="Week1" type="462c0819:PsiDirectoryNode" />
-              <item name="jour4" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -158,14 +145,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.exercice2.html">
-    <configuration name="connexion.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/DI_Bootcamp/Week1/jour2/connexion.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.exercice3.html">
     <configuration name="exercice1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/DI_Bootcamp/Week1/jour4/exercice1.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="exercice2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/DI_Bootcamp/Week1/jour4/exercice2.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="exercice3.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/DI_Bootcamp/Week1/jour4/exercice3.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="exerciceCV.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/DI_Bootcamp/Week1/jour3/exerciceCV.html" useBuiltInWebServerPort="true">
@@ -176,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.exercice3.html" />
         <item itemvalue="JavaScript Debug.exercice2.html" />
         <item itemvalue="JavaScript Debug.exercice1.html" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.exerciceCV.html" />
-        <item itemvalue="JavaScript Debug.connexion.html" />
       </list>
     </recent_temporary>
   </component>
@@ -199,12 +186,12 @@
       <workItem from="1708611827467" duration="15341000" />
       <workItem from="1708751914560" duration="2194000" />
       <workItem from="1708855747300" duration="2910000" />
-      <workItem from="1708960315648" duration="29912000" />
+      <workItem from="1708960315648" duration="40926000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="118586000" />
+    <option name="totallyTimeSpent" value="129600000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="687" extended-state="6" />
@@ -257,7 +244,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.25225225" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.25225225" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -363,15 +350,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Week1/jour4/css2.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+        <state relative-caret-position="170">
+          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Week1/jour4/exercice2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="43" column="29" lean-forward="true" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
+        <state relative-caret-position="-462">
+          <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week1/jour4/css3.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week1/jour4/exercice3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="109" column="16" selection-start-line="109" selection-start-column="16" selection-end-line="109" selection-end-column="16" />
         </state>
       </provider>
     </entry>

@@ -1,0 +1,19 @@
+.carousel-item {
+    background-image: url('https://livedemo00.template-help.com/wt_58884_v1/images/background-01-1920x870.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 681px; /* Hauteur du carrousel */
+    position: fixed;
+}
+.afterNav{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    background-color:lime;
+    height: 150px;
+}
+.titre{
+    margin: 100px;
+    text-align: center;
+    font-size: 50px;
+}
