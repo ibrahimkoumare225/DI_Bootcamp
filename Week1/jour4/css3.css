@@ -5,6 +5,10 @@
     height: 681px; /* Hauteur du carrousel */
     position: fixed;
 }
+.button{
+    display: flex;
+   justify-content: center;
+}
 .afterNav{
     display: flex;
     justify-content:space-around;
@@ -12,6 +16,7 @@
     background-color:#243238;
     height: 150px;
 }
+
 
 .btn-secondary:hover {
     background-color: #1b252c;
