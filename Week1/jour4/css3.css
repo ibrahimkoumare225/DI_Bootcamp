@@ -9,8 +9,14 @@
     display: flex;
     justify-content:space-around;
     align-items: center;
-    background-color:lime;
+    background-color:#243238;
     height: 150px;
+}
+
+.btn-secondary:hover {
+    background-color: #1b252c;
+    border-color: #1b252c;
+
 }
 .titre{
     margin: 100px;
@@ -20,4 +26,16 @@
 .bt2{
     text-align: center;
     margin: 50px;
+}
+.afterNav2{
+    display: flex;
+    justify-content:space-around;
+}
+.ct{
+    background-color:#f6f6f6;
+    padding: 50px;
+}
+.tr{
+    margin: 50px;
+    text-align: center;
 }
