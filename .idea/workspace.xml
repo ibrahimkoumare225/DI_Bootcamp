@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67bcaf90-433d-4daf-ae44-828d32b1d13e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/ProjetDePortfolio/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetDePortfolio/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjetDePortfolio/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetDePortfolio/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2/Jour1/ExercicesXp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2/Jour1/ExercicesXp/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,20 +31,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ProjetDePortfolio/index.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week2/Jour1/ExercicesXp/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="124" column="45" lean-forward="true" selection-start-line="124" selection-start-column="45" selection-end-line="124" selection-end-column="45" />
+            <state relative-caret-position="170">
+              <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ProjetDePortfolio/style.css">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Week2/Jour1/ExercicesXp/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="94" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="94" />
+            <state relative-caret-position="95">
+              <caret line="73" column="23" selection-start-line="73" selection-start-column="23" selection-end-line="73" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -53,8 +54,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -89,6 +91,8 @@
         <option value="$PROJECT_DIR$/Week1/jour5/style2.css" />
         <option value="$PROJECT_DIR$/ProjetDePortfolio/style.css" />
         <option value="$PROJECT_DIR$/ProjetDePortfolio/index.html" />
+        <option value="$PROJECT_DIR$/Week2/Jour1/ExercicesXp/index.html" />
+        <option value="$PROJECT_DIR$/Week2/Jour1/ExercicesXp/script.js" />
       </list>
     </option>
   </component>
@@ -106,7 +110,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -126,10 +129,29 @@
               <item name="ProjetDePortfolio" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="DI_Bootcamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DI_Bootcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Week2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DI_Bootcamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DI_Bootcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Week2" type="462c0819:PsiDirectoryNode" />
+              <item name="Jour1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DI_Bootcamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DI_Bootcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Week2" type="462c0819:PsiDirectoryNode" />
+              <item name="Jour1" type="462c0819:PsiDirectoryNode" />
+              <item name="ExercicesXp" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -137,7 +159,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ProjetDePortfolio/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javascript" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -165,10 +187,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
-    <configuration name="exercice2.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/DI_Bootcamp/Week1/jour5/exercice2.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
     <configuration name="exercice2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/DI_Bootcamp/Week1/jour4/exercice2.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -178,16 +197,19 @@
     <configuration name="exercice.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/DI_Bootcamp/Week1/jour5/exercice.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/DI_Bootcamp/Week2/Jour1/ExercicesXp/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/DI_Bootcamp/ProjetDePortfolio/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.exercice2.html" />
         <item itemvalue="JavaScript Debug.exercice3.html" />
         <item itemvalue="JavaScript Debug.exercice.html" />
-        <item itemvalue="JavaScript Debug.exercice2.html (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -207,18 +229,19 @@
       <workItem from="1708751914560" duration="2194000" />
       <workItem from="1708855747300" duration="2910000" />
       <workItem from="1708960315648" duration="51503000" />
-      <workItem from="1709163683385" duration="41237000" />
+      <workItem from="1709163683385" duration="42295000" />
+      <workItem from="1709330958798" duration="5818000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="181414000" />
+    <option name="totallyTimeSpent" value="188290000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="687" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15384616" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1562753" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -384,13 +407,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week1/jour5/exercice1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Week1/jour5/exercice1.html" />
     <entry file="file://$PROJECT_DIR$/Week1/jour5/style2.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -455,14 +472,28 @@
     <entry file="file://$PROJECT_DIR$/ProjetDePortfolio/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" column="94" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="94" />
+          <caret line="1" column="94" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="94" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ProjetDePortfolio/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="124" column="45" lean-forward="true" selection-start-line="124" selection-start-column="45" selection-end-line="124" selection-end-column="45" />
+          <caret line="124" column="45" selection-start-line="124" selection-start-column="45" selection-end-line="124" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week2/Jour1/ExercicesXp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week2/Jour1/ExercicesXp/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="73" column="23" selection-start-line="73" selection-start-column="23" selection-end-line="73" selection-end-column="23" />
         </state>
       </provider>
     </entry>
