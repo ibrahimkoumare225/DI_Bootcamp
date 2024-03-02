@@ -9,3 +9,23 @@
 "b" < "A"//faux le binaire de b est supérieur a celui de A
 true === false//faux true est différent de false
 true != true//faux true est egale true
+
+//exercice2
+
+// Demander à l'utilisateur une chaîne de chiffres séparés par des virgules
+let input = prompt("Veuillez entrer une chaîne de chiffres séparés par des virgules :");
+
+// Diviser la chaîne en un tableau de nombres
+let numbers = input.split(",");
+
+// Initialiser une variable pour stocker la somme
+let sum = 0;
+
+// Parcourir le tableau de nombres et additionner chaque nombre à la somme
+for (let i = 0; i < numbers.length; i++) {
+    // Convertir chaque élément en nombre en utilisant parseFloat()
+    sum += parseFloat(numbers[i]);
+}
+
+// Afficher la somme
+console.log("La somme des nombres est :", sum);
