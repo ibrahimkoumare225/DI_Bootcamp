@@ -29,3 +29,18 @@ for (let i = 0; i < numbers.length; i++) {
 
 // Afficher la somme
 console.log("La somme des nombres est :", sum);
+
+
+ //exercice3
+// Demander à l'utilisateur une phrase contenant le mot "Nemo"
+let phrase = prompt("Veuillez entrer une phrase contenant le mot 'Nemo' :");
+
+// Recherche du mot "Nemo" dans la phrase
+let position = phrase.indexOf("Nemo");
+
+// Vérifier si le mot "Nemo" a été trouvé
+if (position !== -1) {
+    console.log("J'ai trouvé Nemo à la position", position);
+} else {
+    console.log("Je ne trouve pas Nemo.");
+}
