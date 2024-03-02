@@ -26,3 +26,13 @@ if (newDog === "Chihuahua") {
 } else {
     console.log("Je m'en fiche, je préfère les chats.");
 }
+//Exercice 3 : Pair Ou Impair
+
+let nbreSaisir = prompt("Veuillez saisir un nombre !");
+nbreSaisir = Number(nbreSaisir);
+if (nbreSaisir % 2 ==0 ){
+    console.log(nbreSaisir+" est un nombre pair");
+}
+else {
+    console.log(nbreSaisir+" est un nombre impair");
+}
