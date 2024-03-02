@@ -31,3 +31,18 @@ if (regex.test(cdPostal)) {
 } else {
     console.log("Erreur");
 }
+//Exercice 3 : Mot Secret
+// Invitez l'utilisateur à entrer un mot
+let mot = prompt("Veuillez entrer un mot :");
+
+// Supprimer toutes les voyelles du mot
+let motSansVoyelles = mot.replace(/[aeiou]/ig, "");
+
+// Afficher le résultat sans les voyelles
+console.log("Mot sans voyelles :", motSansVoyelles);
+
+// Bonus: Remplacer les voyelles par un autre caractère (par exemple '*')
+let motModifie = mot.replace(/[aeiou]/ig, "*");
+
+// Afficher le résultat avec les voyelles remplacées par '*'
+console.log("Mot avec voyelles remplacées :", motModifie);
