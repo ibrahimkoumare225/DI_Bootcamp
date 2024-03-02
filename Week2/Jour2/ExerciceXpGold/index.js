@@ -34,3 +34,20 @@ if (noteUtilisateur>=70 && noteUtilisateur<=80){
 if (noteUtilisateur<70){
     console.log("D") ;
 }
+//Exercice 3 : Verbe
+let verbe = prompt("Veuillez saisir un verbe !");
+
+if (verbe.length >= 3) {
+    if (!verbe.endsWith("ing")) {
+        // Si la chaîne ne se termine pas par "ing", ajoutez "ing" à la fin
+        verbe += "ing";
+        console.log(verbe);
+    } else {
+        // Si la chaîne se termine par "ing", ajoutez "ly" à la fin
+        verbe += "ly";
+        console.log(verbe);
+    }
+} else {
+    // Si la longueur de la chaîne est inférieure à 3, laissez-la inchangée
+    console.log(verbe);
+}
