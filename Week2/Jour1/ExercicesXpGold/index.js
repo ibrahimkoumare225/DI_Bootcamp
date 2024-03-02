@@ -18,3 +18,14 @@ let concatenatedStr = newStr1 + " " + newStr2;
 
 // Étape 4 : Afficher la nouvelle chaîne concaténée
 console.log(concatenatedStr);
+
+//Exercice 3 : Calculatrice
+let nbre1 = prompt("entrez le premier nombre : ");
+nbre1 = Number(nbre1);
+let nbre2 = prompt("entrez le premier nombre : ");
+nbre2 = Number(nbre2);
+alert(nbre1+nbre2);
+let autreCalcul = confirm("Voulez vous effectué une soustration de c'est nombre ?");
+if (autreCalcul==true) {
+    alert(nbre1-nbre2);
+}
