@@ -30,19 +30,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week2/Jour2/ExerciceXpGold/index.html">
+        <entry file="file://$PROJECT_DIR$/Week2/Jour2/ExerciceXpNinja/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="24" lean-forward="true" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+            <state relative-caret-position="170">
+              <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Week2/Jour2/ExerciceXpGold/index.js">
+        <entry file="file://$PROJECT_DIR$/Week2/Jour2/ExerciceXpNinja/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="47" column="27" lean-forward="true" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
+            <state relative-caret-position="119">
+              <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -103,6 +103,8 @@
         <option value="$PROJECT_DIR$/Week2/Jour2/ExerciceXp/index.js" />
         <option value="$PROJECT_DIR$/Week2/Jour2/ExerciceXpGold/index.html" />
         <option value="$PROJECT_DIR$/Week2/Jour2/ExerciceXpGold/index.js" />
+        <option value="$PROJECT_DIR$/Week2/Jour2/ExerciceXpNinja/index.html" />
+        <option value="$PROJECT_DIR$/Week2/Jour2/ExerciceXpNinja/index.js" />
       </list>
     </option>
   </component>
@@ -161,7 +163,7 @@
               <item name="DI_Bootcamp" type="462c0819:PsiDirectoryNode" />
               <item name="Week2" type="462c0819:PsiDirectoryNode" />
               <item name="Jour2" type="462c0819:PsiDirectoryNode" />
-              <item name="ExerciceXpGold" type="462c0819:PsiDirectoryNode" />
+              <item name="ExerciceXpNinja" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -203,11 +205,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+  <component name="RunManager" selected="JavaScript Debug.index.html (2)">
     <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/DI_Bootcamp/Week2/Jour2/ExerciceXpGold/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/DI_Bootcamp/Week2/Jour1/ExercicesXpNinja/index.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/DI_Bootcamp/Week2/Jour2/ExerciceXpNinja/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html (4)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/DI_Bootcamp/Week2/Jour1/DailyChalenge/index.html" useBuiltInWebServerPort="true">
@@ -221,11 +223,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (2)" />
         <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.index.html (5)" />
         <item itemvalue="JavaScript Debug.index.html (4)" />
-        <item itemvalue="JavaScript Debug.index.html (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -246,18 +248,18 @@
       <workItem from="1708855747300" duration="2910000" />
       <workItem from="1708960315648" duration="51503000" />
       <workItem from="1709163683385" duration="42295000" />
-      <workItem from="1709330958798" duration="17130000" />
+      <workItem from="1709330958798" duration="18395000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="199602000" />
+    <option name="totallyTimeSpent" value="200867000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="687" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1562753" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1562753" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -274,7 +276,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.25225225" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.25225225" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24939272" />
@@ -601,6 +603,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="47" column="27" lean-forward="true" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week2/Jour2/ExerciceXpNinja/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week2/Jour2/ExerciceXpNinja/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
         </state>
       </provider>
     </entry>
