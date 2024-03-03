@@ -30,19 +30,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week2/Jour3/ExerciceCours/index.html">
+        <entry file="file://$PROJECT_DIR$/Week2/Jour4/AZERTYPE/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+            <state relative-caret-position="119">
+              <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week2/Jour4/AZERTYPE/Scripts/config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Week2/Jour3/ExerciceCours/index.js">
+        <entry file="file://$PROJECT_DIR$/Week2/Jour4/AZERTYPE/Scripts/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="180">
+              <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week2/Jour4/AZERTYPE/Scripts/Main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="11" selection-start-column="11" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -53,8 +71,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -64,13 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Week1/jour2/inscription.css" />
-        <option value="$PROJECT_DIR$/Week1/jour2/inscription.html" />
-        <option value="$PROJECT_DIR$/Week1/jour2/connexion.html" />
-        <option value="$PROJECT_DIR$/Week1/jour2/style2.css" />
-        <option value="$PROJECT_DIR$/Week1/jour2/products.html" />
-        <option value="$PROJECT_DIR$/Week1/jour2/index.html" />
-        <option value="$PROJECT_DIR$/Week1/jour2/style.css" />
         <option value="$PROJECT_DIR$/Week1/jour3/exerciceCV.html" />
         <option value="$PROJECT_DIR$/Week1/jour3/style.css" />
         <option value="$PROJECT_DIR$/testBranche" />
@@ -115,6 +126,13 @@
         <option value="$PROJECT_DIR$/Week2/Jour3/DailyChallenge/index.html" />
         <option value="$PROJECT_DIR$/Week2/Jour3/ExerciceCours/index.html" />
         <option value="$PROJECT_DIR$/Week2/Jour3/ExerciceCours/index.js" />
+        <option value="$PROJECT_DIR$/Week2/Jour4/Projet js/index.html" />
+        <option value="$PROJECT_DIR$/Week2/Jour4/Projet js/index.js" />
+        <option value="$PROJECT_DIR$/Week2/Jour4/AZERTYPE/config.js" />
+        <option value="$PROJECT_DIR$/Week2/Jour4/AZERTYPE/index.js" />
+        <option value="$PROJECT_DIR$/Week2/Jour4/AZERTYPE/Scripts/Main.js" />
+        <option value="$PROJECT_DIR$/Week2/Jour4/AZERTYPE/index.html" />
+        <option value="$PROJECT_DIR$/Week2/Jour4/AZERTYPE/Scripts/index.js" />
       </list>
     </option>
   </component>
@@ -166,8 +184,22 @@
               <item name="DI_Bootcamp" type="b2602c69:ProjectViewProjectNode" />
               <item name="DI_Bootcamp" type="462c0819:PsiDirectoryNode" />
               <item name="Week2" type="462c0819:PsiDirectoryNode" />
-              <item name="Jour3" type="462c0819:PsiDirectoryNode" />
-              <item name="ExerciceCours" type="462c0819:PsiDirectoryNode" />
+              <item name="Jour4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DI_Bootcamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DI_Bootcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Week2" type="462c0819:PsiDirectoryNode" />
+              <item name="Jour4" type="462c0819:PsiDirectoryNode" />
+              <item name="AZERTYPE" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DI_Bootcamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DI_Bootcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Week2" type="462c0819:PsiDirectoryNode" />
+              <item name="Jour4" type="462c0819:PsiDirectoryNode" />
+              <item name="AZERTYPE" type="462c0819:PsiDirectoryNode" />
+              <item name="Scripts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -194,6 +226,7 @@
       <recent name="C:\Users\Ibrahim Koumare\Desktop\Bootcamp\DI_Bootcamp\Week1\jour2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ibrahim Koumare\Desktop\Bootcamp\DI_Bootcamp\Week2\Jour4\AZERTYPE\Scripts" />
       <recent name="C:\Users\Ibrahim Koumare\Desktop\Bootcamp\DI_Bootcamp\Week1\jour2" />
       <recent name="C:\Users\Ibrahim Koumare\Desktop\Bootcamp\DI_Bootcamp\Week1\jour2\images" />
     </key>
@@ -210,7 +243,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (4)">
+  <component name="RunManager" selected="JavaScript Debug.index.html (5)">
     <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/DI_Bootcamp/Week2/Jour2/ExerciceXpGold/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -223,16 +256,16 @@
     <configuration name="index.html (4)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/DI_Bootcamp/Week2/Jour3/ExerciceCours/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/DI_Bootcamp/Week2/Jour2/ExerciceXp/index.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html (5)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/DI_Bootcamp/Week2/Jour4/AZERTYPE/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (5)" />
         <item itemvalue="JavaScript Debug.index.html (4)" />
         <item itemvalue="JavaScript Debug.index.html (3)" />
         <item itemvalue="JavaScript Debug.index.html (2)" />
         <item itemvalue="JavaScript Debug.index.html (1)" />
-        <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -253,18 +286,18 @@
       <workItem from="1708855747300" duration="2910000" />
       <workItem from="1708960315648" duration="51503000" />
       <workItem from="1709163683385" duration="42295000" />
-      <workItem from="1709330958798" duration="22530000" />
+      <workItem from="1709330958798" duration="30207000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="205002000" />
+    <option name="totallyTimeSpent" value="212679000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="687" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18947369" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18947369" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -281,7 +314,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.25225225" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.25225225" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24939272" />
@@ -332,30 +365,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Week1/jour2/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1190">
-          <caret line="70" column="25" selection-start-line="70" selection-start-column="25" selection-end-line="70" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week1/jour4/css.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week1/jour4/images/student-849825_1280.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week1/jour2/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="921">
-          <caret line="73" selection-start-line="73" selection-end-line="73" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Week1/jour2/style2.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -646,8 +655,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Week2/Jour3/ExerciceCours/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
+        <state relative-caret-position="578">
           <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week2/Jour4/AZERTYPE/Scripts/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week2/Jour4/AZERTYPE/Scripts/Main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week2/Jour4/AZERTYPE/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week2/Jour4/AZERTYPE/Scripts/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
         </state>
       </provider>
     </entry>
