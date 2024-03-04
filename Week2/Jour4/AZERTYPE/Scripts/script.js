@@ -24,8 +24,21 @@ function afficherProposition(proposition){
  * @param {string} score : le score.
  */
 function afficherEmail(nom, email, score) {
-    let mailto = `mailto:${email}+?subject=Partage du score Azertype&body=Salut, je suis ${nom} et je vais de réaliser le score ${score} sur le site d'Azertype !`
+    let mailto = `mailto:${email}+?subject=Partage du score Azertype&body=Salut, je suis ${nom} et je viens de réaliser le score ${score} sur le site d'Azertype !`
     location.href = mailto
+}
+function validerNom(nom) {
+    if (nom.length){
+        return true
+    }return false
+}
+
+function validerEmail(email){
+    let emailRegExp = new RegExp("[a-z0-9._-]+@[a-z0-9._-]+\\.[a-z0-9._-]+")
+    if (emailRegExp.test(email)){
+        return true
+    }
+    return false
 }
 //fonction principale
 function lancerJeu() {
@@ -76,8 +89,12 @@ function lancerJeu() {
         let baliseEmail = document.getElementById("email")
         let email = baliseEmail.value
 
-        let scoreEmail = `${score}/${i}`
-        afficherEmail(nom,email,scoreEmail)
+        if (validerNom(nom)&& validerEmail(email)){
+            let scoreEmail = `${score}/${i}`
+            afficherEmail(nom,email,scoreEmail)
+        } else {
+            console.log("Erreur")
+        }
     })
    afficherResultat(score,i)
 }
